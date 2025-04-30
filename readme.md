@@ -1,6 +1,6 @@
 # Hotel Revenue Management Analytics using Power Bi for visualization
 
-A comprehensive Power BI solution for hotel revenue management, offering detailed analysis of pricing, occupancy, market segmentation, and profitability.
+A comprehensive Power BI solution for hotel revenue management, offering detailed analysis of pricing, occupancy, market segmentation, and profitability.Today
 
 ## Repository Structure
 
