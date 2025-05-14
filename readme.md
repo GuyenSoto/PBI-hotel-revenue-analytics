@@ -9,19 +9,19 @@ A comprehensive Power BI solution for hotel revenue management, offering detaile
 │
 ├── 📂 assets/
 │   ├── 📂 images/
-│   │   ├── 📄 hotel-dashboard-banner.jpg
-│   │   ├── 📄 dashboard-preview.gif
-│   │   ├── 📄 executive-summary.jpg
-│   │   ├── 📄 revenue-analysis.jpg
-│   │   ├── 📄 pricing-occupancy.jpg
-│   │   ├── 📄 market-segmentation.jpg
-│   │   ├── 📄 channel-analysis.jpg
-│   │   ├── 📄 profitability-analysis.jpg
-│   │   ├── 📄 customer-satisfaction.jpg
-│   │   ├── 📄 time-intelligence.jpg
-│   │   ├── 📄 year-over-year.jpg
-│   │   ├── 📄 marketing-performance.jpg
-│   │   ├── 📄 kpi-tracking.jpg
+│   │   ├── 📄 0_Menu_2025-04-23 123745.jpg
+│   │   ├── 📄 1_Executive_Summary_2025-04-23 123841.jpg
+│   │   ├── 📄 1.2Executive_Report_2025-04-23 123921.jpg
+│   │   ├── 📄 1.3_Other Executive_2025-04-23 123921.jpg
+│   │   ├── 📄 2.Revenue_Analysis_2025-04-23 124051.jpg
+│   │   ├── 📄 2.1_Other_Revenue_2025-04-23 124325.jpg
+│   │   ├── 📄 3_Pricing_and_Occupancy_2025-04-23 124406.jpg
+│   │   ├── 📄 4_market_segmentation_2025-04-23 124453.jpg
+│   │   ├── 📄 5_Channel_Performance_2025-04-23 124533.jpg
+│   │   ├── 📄 6_Profitability_Analysis_2025-04-23 124634.jpg
+│   │   ├── 📄 7_Customer_Satisfaction_2025-04-23 124730.jpg
+│   │   ├── 📄 8_Marketing_Performance_2025-04-23 124808.jpg
+│   │   ├── 📄 9_Kpi_Tracking_2025-04-23 124844.jpg
 │   │   ├── 📄 logo.jpg
 │   │   ├── 📄 icons/
 │   │   └── 📄 screenshots/
@@ -60,7 +60,7 @@ A comprehensive Power BI solution for hotel revenue management, offering detaile
 ```markdown
 # 🏨 Hotel Revenue Management Analytics Dashboard
 
-![Dashboard Banner](assets/images/hotel-dashboard-banner.png)
+![Dashboard Banner](assets/images/0_Menu_2025-04-23 123745.jpg)
 
 [![Status](https://img.shields.io/badge/Status-Active-success)](https://github.com/yourusername/hotel-revenue-analytics)
 [![Version](https://img.shields.io/badge/Version-1.0.0-blue)](https://github.com/yourusername/hotel-revenue-analytics/releases)
@@ -71,7 +71,7 @@ A comprehensive Power BI solution for hotel revenue management, offering detaile
 
 **Hotel Revenue Analytics** is a comprehensive business intelligence solution developed with Microsoft Power BI that transforms hotel operational data into actionable insights for revenue management. Designed for revenue managers, hotel directors, and commercial teams who need to optimize pricing, occupancy, and overall profitability in real-time.
 
-![Main Dashboard](assets/images/dashboard-preview.gif)
+![Main Dashboard](assets/images/0_Menu_2025-04-23 123745.jpg)
 
 ## ✨ Key Features
 
@@ -93,9 +93,7 @@ A comprehensive Power BI solution for hotel revenue management, offering detaile
 | **Distribution Channels** | Comparison between booking channels |
 | **Profitability Analysis** | Profit margins and cost structure |
 | **Customer Satisfaction** | Correlation between satisfaction and revenue |
-| **Time Intelligence** | MTD/QTD/YTD performance metrics and comparisons |
-| **Year-over-Year Analysis** | Comparative performance analysis with previous periods |
-| **Marketing Performance** | Marketing efficiency and ROI analysis |
+| **Marketing Performance** | MTD/QTD/YTD performance metrics and comparisons |
 | **KPI Tracking** | Performance visualization against targets |
 
 ## 📋 Requirements
@@ -135,13 +133,31 @@ For detailed instructions, refer to our [implementation guide](docs/implementati
 ## 🔍 Screenshots
 
 ### Executive Summary
-![Executive Summary](assets/images/executive-summary.png)
+![Executive Summary](assets/images/1_Executive_Summary_2025-04-23 123841.jpg)
 
 ### Revenue Analysis
-![Revenue Analysis](assets/images/revenue-analysis.png)
+![Revenue Analysis](assets/images/2.Revenue_Analysis_2025-04-23 124051.jpg)
 
 ### Pricing & Occupancy
-![Pricing & Occupancy](assets/images/pricing-occupancy.png)
+![Pricing & Occupancy](assets/images/3_Pricing_and_Occupancy_2025-04-23 124406.jpg)
+
+### Market Segmentation
+![Market Segmentation](assets/images/4_market_segmentation_2025-04-23 124453.jpg)
+
+### Channel Performance
+![Channel Performance](assets/images/5_Channel_Performance_2025-04-23 124533.jpg)
+
+### Profitability Analysis
+![Profitability Analysis](assets/images/6_Profitability_Analysis_2025-04-23 124634.jpg)
+
+### Customer Satisfaction
+![Customer Satisfaction](assets/images/7_Customer_Satisfaction_2025-04-23 124730.jpg)
+
+### Marketing Performance
+![Marketing Performance](assets/images/8_Marketing_Performance_2025-04-23 124808.jpg)
+
+### KPI Tracking
+![KPI Tracking](assets/images/9_Kpi_Tracking_2025-04-23 124844.jpg)
 
 ## 💡 Key Insights
 
