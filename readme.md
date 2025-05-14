@@ -60,7 +60,7 @@ A comprehensive Power BI solution for hotel revenue management, offering detaile
 ```markdown
 # 🏨 Hotel Revenue Management Analytics Dashboard
 
-![Dashboard Banner](assets/images/0_Menu_2025-04-23 123745.jpg)
+![Dashboard Banner](https://github.com/GuyenSoto/hotel-revenue-analytics/assets/images/0_Menu_2025-04-23 123745.jpg)
 
 [![Status](https://img.shields.io/badge/Status-Active-success)](https://github.com/yourusername/hotel-revenue-analytics)
 [![Version](https://img.shields.io/badge/Version-1.0.0-blue)](https://github.com/yourusername/hotel-revenue-analytics/releases)
@@ -71,7 +71,7 @@ A comprehensive Power BI solution for hotel revenue management, offering detaile
 
 **Hotel Revenue Analytics** is a comprehensive business intelligence solution developed with Microsoft Power BI that transforms hotel operational data into actionable insights for revenue management. Designed for revenue managers, hotel directors, and commercial teams who need to optimize pricing, occupancy, and overall profitability in real-time.
 
-![Main Dashboard](assets/images/0_Menu_2025-04-23 123745.jpg)
+![Main Dashboard](https://github.com/GuyenSoto/hotel-revenue-analytics/assets/images/0_Menu_2025-04-23 123745.jpg)
 
 ## ✨ Key Features
 
