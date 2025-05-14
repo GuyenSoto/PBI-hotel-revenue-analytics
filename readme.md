@@ -167,16 +167,7 @@ For detailed instructions, refer to our [implementation guide](docs/implementati
 ### 9. KPI Tracking
 ![KPI Tracking](Asset/Images/9_Kpi_Tracking_2025-04-23%20124844.jpg)
 
-## 🔍 Screenshots
 
-### Executive Summary
-![Executive Summary](Asset/Images/1_Executive_Summary_2025-04-23%20123841.jpg)
-
-### Revenue Analysis
-![Revenue Analysis](Asset/Images/2.Revenue_Analysis_2025-04-23%20124051.jpg)
-
-### Pricing & Occupancy
-![Pricing and Occupancy](Asset/Images/3_Pricing_and_Occupancy_2025-04-23%20124406.jpg)
 
 ## 💡 Key Insights
 
