@@ -1,14 +1,14 @@
-# Hotel Revenue Management Analytics using Power BI for visualization
+# Hotel Revenue Management Analytics using Power Bi for visualization
 
 A comprehensive Power BI solution for hotel revenue management, offering detailed analysis of pricing, occupancy, market segmentation, and profitability.
 
 ## Repository Structure
 
 ```
-📂 PBI-hotel-revenue-analytics/
+📂 hotel-revenue-analytics/
 │
-├── 📂 Asset/
-│   ├── 📂 Images/
+├── 📂 assets/
+│   ├── 📂 images/
 │   │   ├── 📄 0_Menu_2025-04-23 123745.jpg
 │   │   ├── 📄 1_Executive_Summary_2025-04-23 123841.jpg
 │   │   ├── 📄 1.2Executive_Report_2025-04-23 123921.jpg
@@ -22,6 +22,7 @@ A comprehensive Power BI solution for hotel revenue management, offering detaile
 │   │   ├── 📄 7_Customer_Satisfaction_2025-04-23 124730.jpg
 │   │   ├── 📄 8_Marketing_Performance_2025-04-23 124808.jpg
 │   │   ├── 📄 9_Kpi_Tracking_2025-04-23 124844.jpg
+│   │   ├── 📄 logo.jpg
 │   │   ├── 📄 icons/
 │   │   └── 📄 screenshots/
 │   │
@@ -52,9 +53,14 @@ A comprehensive Power BI solution for hotel revenue management, offering detaile
 └── 📄 CONTRIBUTING.md
 ```
 
+## File Contents
+
+### README.md
+
+```markdown
 # 🏨 Hotel Revenue Management Analytics Dashboard
 
-![Dashboard Banner](Asset/Images/0_Menu_2025-04-23%20123745.jpg)
+
 
 [![Status](https://img.shields.io/badge/Status-Active-success)](https://github.com/yourusername/hotel-revenue-analytics)
 [![Version](https://img.shields.io/badge/Version-1.0.0-blue)](https://github.com/yourusername/hotel-revenue-analytics/releases)
@@ -65,7 +71,7 @@ A comprehensive Power BI solution for hotel revenue management, offering detaile
 
 **Hotel Revenue Analytics** is a comprehensive business intelligence solution developed with Microsoft Power BI that transforms hotel operational data into actionable insights for revenue management. Designed for revenue managers, hotel directors, and commercial teams who need to optimize pricing, occupancy, and overall profitability in real-time.
 
-![Main Dashboard](Asset/Images/0_Menu_2025-04-23%20123745.jpg)
+
 
 ## ✨ Key Features
 
@@ -87,9 +93,7 @@ A comprehensive Power BI solution for hotel revenue management, offering detaile
 | **Distribution Channels** | Comparison between booking channels |
 | **Profitability Analysis** | Profit margins and cost structure |
 | **Customer Satisfaction** | Correlation between satisfaction and revenue |
-| **Time Intelligence** | MTD/QTD/YTD performance metrics and comparisons |
-| **Year-over-Year Analysis** | Comparative performance analysis with previous periods |
-| **Marketing Performance** | Marketing efficiency and ROI analysis |
+| **Marketing Performance** | MTD/QTD/YTD performance metrics and comparisons |
 | **KPI Tracking** | Performance visualization against targets |
 
 ## 📋 Requirements
@@ -126,57 +130,34 @@ For detailed instructions, refer to our [implementation guide](docs/implementati
 - **Marketing Efficiency**: Revenue to marketing spend ratio
 - **Customer Satisfaction**: Review scores and their impact on revenue
 
-## 🔍 Dashboard Screenshots
-
-### 0. Dashboard Menu
-![Dashboard Menu](Asset/Images/0_Menu_2025-04-23%20123745.jpg)
-
-### 1. Executive Summary
-![Executive Summary](Asset/Images/1_Executive_Summary_2025-04-23%20123841.jpg)
-
-### 1.2 Executive Report
-![Executive Report](Asset/Images/1.2Executive_Report_2025-04-23%20123921.jpg)
-
-### 1.3 Other Executive
-![Other Executive](Asset/Images/1.3_Other%20Executive_2025-04-23%20123921.jpg)
-
-### 2. Revenue Analysis
-![Revenue Analysis](Asset/Images/2.Revenue_Analysis_2025-04-23%20124051.jpg)
-
-### 2.1 Other Revenue
-![Other Revenue](Asset/Images/2.1_Other_Revenue_2025-04-23%20124325.jpg)
-
-### 3. Pricing and Occupancy
-![Pricing and Occupancy](Asset/Images/3_Pricing_and_Occupancy_2025-04-23%20124406.jpg)
-
-### 4. Market Segmentation
-![Market Segmentation](Asset/Images/4_market_segmentation_2025-04-23%20124453.jpg)
-
-### 5. Channel Performance
-![Channel Performance](Asset/Images/5_Channel_Performance_2025-04-23%20124533.jpg)
-
-### 6. Profitability Analysis
-![Profitability Analysis](Asset/Images/6_Profitability_Analysis_2025-04-23%20124634.jpg)
-
-### 7. Customer Satisfaction
-![Customer Satisfaction](Asset/Images/7_Customer_Satisfaction_2025-04-23%20124730.jpg)
-
-### 8. Marketing Performance
-![Marketing Performance](Asset/Images/8_Marketing_Performance_2025-04-23%20124808.jpg)
-
-### 9. KPI Tracking
-![KPI Tracking](Asset/Images/9_Kpi_Tracking_2025-04-23%20124844.jpg)
-
 ## 🔍 Screenshots
 
-### Executive Summary
-![Executive Summary](Asset/Images/1_Executive_Summary_2025-04-23%20123841.jpg)
+#### Executive Summary
+![Executive Summary](https://github.com/GuyenSoto/PBI-hotel-revenue-analytics/tree/main/assets/images/1_Executive_Summary_2025-04-23 123841.jpg)
 
-### Revenue Analysis
-![Revenue Analysis](Asset/Images/2.Revenue_Analysis_2025-04-23%20124051.jpg)
+#### Revenue Analysis
+![Revenue Analysis](https://github.com/GuyenSoto/hotel-revenue-analytics/assets/images/2.Revenue_Analysis_2025-04-23 124051.jpg)
 
-### Pricing & Occupancy
-![Pricing and Occupancy](Asset/Images/3_Pricing_and_Occupancy_2025-04-23%20124406.jpg)
+#### Pricing & Occupancy
+![Pricing & Occupancy](https://github.com/GuyenSoto/hotel-revenue-analytics/assets/images/3_Pricing_and_Occupancy_2025-04-23 124406.jpg)
+
+#### Market Segmentation
+![Market Segmentation](https://github.com/GuyenSoto/hotel-revenue-analytics/assets/images/4_market_segmentation_2025-04-23 124453.jpg)
+
+### Channel Performance
+![Channel Performance](https://github.com/GuyenSoto/hotel-revenue-analytics/assets/images/5_Channel_Performance_2025-04-23 124533.jpg)
+
+### Profitability Analysis
+![Profitability Analysis](https://github.com/GuyenSoto/hotel-revenue-analytics/assets/images/6_Profitability_Analysis_2025-04-23 124634.jpg)
+
+### Customer Satisfaction
+![Customer Satisfaction](https://github.com/GuyenSoto/hotel-revenue-analytics/assets/images/7_Customer_Satisfaction_2025-04-23 124730.jpg)
+
+### Marketing Performance
+![Marketing Performance](https://github.com/GuyenSoto/hotel-revenue-analytics/assets/images/8_Marketing_Performance_2025-04-23 124808.jpg)
+
+### KPI Tracking
+![KPI Tracking](https://github.com/GuyenSoto/hotel-revenue-analytics/assets/images/9_Kpi_Tracking_2025-04-23 124844.jpg)
 
 ## 💡 Key Insights
 
@@ -207,6 +188,193 @@ Contributions are welcome! If you'd like to improve this project:
 - [Visualization Specifications](docs/visualization-specifications.md)
 - [Power Query Transformations](docs/power-query-transformations.md)
 
+### implementation-guide.md
+
+```markdown
+# Hotel Revenue Management Dashboard Implementation Guide
+
+This guide provides detailed instructions for implementing the hotel revenue management analytics dashboard in your organization.
+
+## Table of Contents
+1. [Prerequisites](#prerequisites)
+2. [Installation](#installation)
+3. [Connecting to Data Sources](#connecting-to-data-sources)
+4. [Dashboard Customization](#dashboard-customization)
+5. [Setting Up Refreshes](#setting-up-refreshes)
+6. [Sharing and Publishing](#sharing-and-publishing)
+7. [Troubleshooting](#troubleshooting)
+
+## Prerequisites
+
+Before beginning implementation, ensure you have:
+
+- Microsoft Power BI Desktop (version 2.112.x or later)
+- Appropriate permissions to access hotel operational data
+- Basic knowledge of Power BI
+- Microsoft Power BI Pro or Premium (for sharing and publishing)
+- Hotel operational data in CSV format or compatible PMS system
+
+## Installation
+
+1. **Clone or download the repository**
+   ```
+   git clone https://github.com/yourusername/hotel-revenue-analytics.git
+   ```
+
+2. **Access the project folder**
+   ```
+   cd hotel-revenue-analytics
+   ```
+
+3. **Open the main PBIX file**
+   - Navigate to the `dashboards/` folder
+   - Open the `hotel-revenue-dashboard.pbix` file with Power BI Desktop
+
+## Connecting to Data Sources
+
+The dashboard can connect to different data sources. Follow these steps to configure your connection:
+
+### Option 1: Use the included sample data
+
+1. This option is preconfigured and uses the data in `assets/sample-data/hotel_data_sample.csv`
+2. Ideal for evaluation and testing of the dashboard
+
+### Option 2: Connect to your custom CSV
+
+1. In Power BI Desktop, go to **Home > Transform data**
+2. Select the "Hotel Operations" query (main data source)
+3. Click on **Source** in the Power Query editor
+4. Update the file path to point to your custom CSV
+5. Click **Close & Apply**
+
+### Option 3: Connect to your PMS system or database
+
+1. In Power BI Desktop, go to **Home > Transform data**
+2. Select the "Hotel Operations" query
+3. Click on **Source** in the Power Query editor
+4. Select **New source** and choose the appropriate connection type (SQL Server, Oracle, etc.)
+5. Configure the connection parameters (server, database, credentials)
+6. Write your custom SQL query or select the necessary tables
+7. Adapt transformations as needed
+8. Click **Close & Apply**
+
+## Dashboard Customization
+
+### Visual Customization
+
+1. **Change corporate colors**
+   - Go to **View > Theme**
+   - Select an existing theme or create a new one that matches your brand
+   - For creating a custom theme, refer to `docs/theme-customization.md`
+
+2. **Modify logos**
+   - Click on the existing logo images
+   - Select **Home > Image**
+   - Browse and select your own logo
+
+3. **Adjust KPIs and metrics**
+   - Right-click on any visualization
+   - Select **Edit visualization**
+   - Modify fields and filters according to your needs
+
+### Advanced Customization
+
+1. **Modify DAX measures**
+   - Go to **Modeling > New measure**
+   - Create or modify measures according to your specific needs
+   - Refer to `docs/dax-measures.md` for complete documentation of measures
+
+2. **Adjust data relationships**
+   - Go to the **Model** view
+   - Review and modify relationships between tables as needed
+
+3. **Create new dashboard pages**
+   - Click on the + icon at the bottom
+   - Design new pages according to your needs
+   - Refer to `docs/dashboard-design.md` for best practices
+
+## Setting Up Refreshes
+
+### Local Refresh
+
+1. Configure scheduled refresh in Power BI Desktop:
+   - **File > Options and settings > Options**
+   - Configure refresh frequency according to your needs
+
+### Power BI Service Refresh
+
+1. Publish the report to Power BI Service
+2. Set up the on-premises data gateway if your data is in internal systems
+3. Configure the refresh schedule:
+   - Go to the dataset
+   - Select **Schedule refresh**
+   - Configure refresh frequency and time
+
+## Sharing and Publishing
+
+### Publish to Power BI Service
+
+1. In Power BI Desktop, click on **Home > Publish**
+2. Sign in to your Power BI account
+3. Select the destination workspace
+4. Click **Publish**
+
+### Share with Your Team
+
+1. In Power BI Service, go to the published report
+2. Click on **Share**
+3. Add the emails of people you want to share with
+4. Configure appropriate permissions
+5. Click **Share**
+
+### Create an App
+
+1. In Power BI Service, go to the workspace
+2. Click on **Create app**
+3. Configure app details (name, description, image)
+4. Select content to include
+5. Configure access and navigation
+6. Publish the app
+
+## Troubleshooting
+
+### Common Issues and Solutions
+
+1. **Data connection error**
+   - Verify data source credentials
+   - Confirm file path is correct
+   - Verify access permissions
+
+2. **Slow performance**
+   - Optimize queries using the Power Query editor
+   - Reduce data volume using appropriate filters
+   - Simplify complex DAX measures
+   - Refer to `docs/performance-optimization.md`
+
+3. **Calculation discrepancies**
+   - Verify DAX formulas in `docs/dax-measures.md`
+   - Confirm context filters are working correctly
+   - Verify data granularity
+
+### Additional Support
+
+If you encounter issues not covered in this guide:
+
+1. Refer to the complete documentation in the `docs/` folder
+2. Open an issue in the GitHub repository
+3. Contact the support team at [youremail@example.com](mailto:youremail@example.com)
+
+## Next Steps
+
+Once you've implemented the dashboard, we recommend:
+
+1. Review the analysis guide in `docs/analysis-guide.md`
+2. Familiarize yourself with all metrics in `docs/metrics-dictionary.md`
+3. Train your team on dashboard usage
+4. Establish regular meetings to analyze the insights obtained
+5. Implement data-driven strategies to optimize revenue
+```
+
 ## 📞 Support and Contact
 
 Questions, issues, or suggestions? [Open an issue](https://github.com/yourusername/hotel-revenue-analytics/issues) or contact us at [youremail@example.com](mailto:youremail@example.com).
@@ -214,7 +382,3 @@ Questions, issues, or suggestions? [Open an issue](https://github.com/youruserna
 ## 📄 License
 
 This project is under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Developed with ❤️ by [Your Name](https://github.com/yourusername)
