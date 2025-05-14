@@ -5,7 +5,7 @@ A comprehensive Power BI solution for hotel revenue management, offering detaile
 ## Repository Structure
 
 ```
-📂 PBI-hotel-revenue-analytics/
+📂 PBI-PBI-hotel-revenue-analytics/
 │
 ├── 📂 Asset/
 │   ├── 📂 Images/
@@ -29,7 +29,7 @@ A comprehensive Power BI solution for hotel revenue management, offering detaile
 │       └── 📄 hotel_data_sample.csv
 │
 ├── 📂 dashboards/
-│   ├── 📄 hotel-revenue-dashboard.pbix
+│   ├── 📄 hotel.pbix
 │   ├── 📄 executive-summary.pdf
 │   └── 📄 sample-reports.pdf
 │
@@ -56,8 +56,8 @@ A comprehensive Power BI solution for hotel revenue management, offering detaile
 
 
 
-[![Status](https://img.shields.io/badge/Status-Active-success)](https://github.com/yourusername/hotel-revenue-analytics)
-[![Version](https://img.shields.io/badge/Version-1.0.0-blue)](https://github.com/yourusername/hotel-revenue-analytics/releases)
+[![Status](https://img.shields.io/badge/Status-Active-success)](https://github.com/yourusername/PBI-hotel-revenue-analytics)
+[![Version](https://img.shields.io/badge/Version-1.0.0-blue)](https://github.com/yourusername/PBI-hotel-revenue-analytics/releases)
 [![Power BI](https://img.shields.io/badge/Power%20BI-Latest-F2C811)](https://powerbi.microsoft.com/)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
@@ -102,12 +102,12 @@ A comprehensive Power BI solution for hotel revenue management, offering detaile
 
 1. Clone this repository
 ```
-git clone https://github.com/yourusername/hotel-revenue-analytics.git
+git clone https://github.com/yourusername/PBI-hotel-revenue-analytics.git
 ```
 
 2. Open the main PBIX file in Power BI Desktop
 ```
-hotel-revenue-dashboard.pbix
+hotel.pbix
 ```
 
 3. Connect to your own data sources or use the included sample data
@@ -200,7 +200,7 @@ Contributions are welcome! If you'd like to improve this project:
 
 ## 📞 Support and Contact
 
-Questions, issues, or suggestions? [Open an issue](https://github.com/yourusername/hotel-revenue-analytics/issues) or contact us at [youremail@example.com](mailto:youremail@example.com).
+Questions, issues, or suggestions? [Open an issue](https://github.com/yourusername/PBI-hotel-revenue-analytics/issues) or contact us at [youremail@example.com](mailto:youremail@example.com).
 
 ## 📄 License
 
