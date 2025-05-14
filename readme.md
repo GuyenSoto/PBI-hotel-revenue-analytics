@@ -133,31 +133,31 @@ For detailed instructions, refer to our [implementation guide](docs/implementati
 ## 🔍 Screenshots
 
 ### Executive Summary
-![Executive Summary](assets/images/1_Executive_Summary_2025-04-23 123841.jpg)
+![Executive Summary](https://github.com/GuyenSoto/hotel-revenue-analytics/assets/images/1_Executive_Summary_2025-04-23 123841.jpg)
 
 ### Revenue Analysis
-![Revenue Analysis](assets/images/2.Revenue_Analysis_2025-04-23 124051.jpg)
+![Revenue Analysis](https://github.com/GuyenSoto/hotel-revenue-analytics/assets/images/2.Revenue_Analysis_2025-04-23 124051.jpg)
 
 ### Pricing & Occupancy
-![Pricing & Occupancy](assets/images/3_Pricing_and_Occupancy_2025-04-23 124406.jpg)
+![Pricing & Occupancy](https://github.com/GuyenSoto/hotel-revenue-analytics/assets/images/3_Pricing_and_Occupancy_2025-04-23 124406.jpg)
 
 ### Market Segmentation
-![Market Segmentation](assets/images/4_market_segmentation_2025-04-23 124453.jpg)
+![Market Segmentation](https://github.com/GuyenSoto/hotel-revenue-analytics/assets/images/4_market_segmentation_2025-04-23 124453.jpg)
 
 ### Channel Performance
-![Channel Performance](assets/images/5_Channel_Performance_2025-04-23 124533.jpg)
+![Channel Performance](https://github.com/GuyenSoto/hotel-revenue-analytics/assets/images/5_Channel_Performance_2025-04-23 124533.jpg)
 
 ### Profitability Analysis
-![Profitability Analysis](assets/images/6_Profitability_Analysis_2025-04-23 124634.jpg)
+![Profitability Analysis](https://github.com/GuyenSoto/hotel-revenue-analytics/assets/images/6_Profitability_Analysis_2025-04-23 124634.jpg)
 
 ### Customer Satisfaction
-![Customer Satisfaction](assets/images/7_Customer_Satisfaction_2025-04-23 124730.jpg)
+![Customer Satisfaction](https://github.com/GuyenSoto/hotel-revenue-analytics/assets/images/7_Customer_Satisfaction_2025-04-23 124730.jpg)
 
 ### Marketing Performance
-![Marketing Performance](assets/images/8_Marketing_Performance_2025-04-23 124808.jpg)
+![Marketing Performance](https://github.com/GuyenSoto/hotel-revenue-analytics/assets/images/8_Marketing_Performance_2025-04-23 124808.jpg)
 
 ### KPI Tracking
-![KPI Tracking](assets/images/9_Kpi_Tracking_2025-04-23 124844.jpg)
+![KPI Tracking](https://github.com/GuyenSoto/hotel-revenue-analytics/assets/images/9_Kpi_Tracking_2025-04-23 124844.jpg)
 
 ## 💡 Key Insights
 
